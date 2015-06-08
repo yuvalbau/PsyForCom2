@@ -11,7 +11,7 @@ namespace PsyForCom.Account
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            //comment to delete later 
         }
 
         protected void RegisterUser(object sender, EventArgs e)
